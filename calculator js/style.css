@@ -1,0 +1,35 @@
+.box{
+    border: 2px solid red;
+    width: 300px;
+    height: 550px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(87, 226, 87);
+}
+#calculation{
+    width: 245px;
+    height: 10px;
+    border: 2px solid black;
+    border-radius: 3px;
+    padding: 20px;
+    margin: auto;
+    
+}
+input{
+    height: 70px;
+    width: 56px;
+    padding-right: 16px;
+    background-color: saffron;
+    color: blue;
+    margin: 4px 12px 4px 4px;
+    font-size: 20px;
+}
+#clear{
+    width: 290px;
+    height: 60px;
+    border: 3px solid yellow;
+    padding: 18px;
+    background-color: blue;
+    color: white;
+
+}
